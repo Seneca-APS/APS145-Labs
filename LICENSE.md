@@ -1,12 +1,12 @@
 # Copyright
 
-&copy; Copyright 2022 Seneca College
+&copy; Copyright 2025 Seneca College
 
 # LICENSE
 
 ## Documentation
 
-Except where otherwise noted, all documentation on this site is &copy; Copyright 2022 Seneca College and may be used in accordance with the Creative Commons License, Attribution 2.5. This copyleft license allows you to copy, modify, and redistribute modifications of all or some of the pages as long as you
+Except where otherwise noted, all documentation on this site is &copy; Copyright 2025 Seneca College and may be used in accordance with the Creative Commons License, Attribution 2.5. This copyleft license allows you to copy, modify, and redistribute modifications of all or some of the pages as long as you
 
 1. include the license with all copies or redistributions
 
@@ -16,7 +16,7 @@ This Web Site by Seneca College is licensed under a Creative Commons Attribution
 
 ## Software
 
-Except where otherwise noted, all software downloadable from this site is &copy; Copyright 2022 Seneca College and may be used in accordance with the PostgreSQL License (TPL):
+Except where otherwise noted, all software downloadable from this site is &copy; Copyright 2025 Seneca College and may be used in accordance with the PostgreSQL License (TPL):
 
 > Permission to use, copy, modify, and distribute this software and its documentation for any purpose, without fee, and without a written agreement is hereby granted, provided that the above copyright notice and this paragraph and the following two paragraphs appear in all copies.
 >
